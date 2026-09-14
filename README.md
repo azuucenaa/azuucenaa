@@ -20,7 +20,7 @@ Excel · Power Query
 
 Interactive sales and profitability dashboard analyzing commercial performance by category, region, product and time period.
 
-[View project →](https://github.com/azuucenaa/panel-de-rentabilidad-de-ventas)
+[View project →](https://github.com/azuucenaa/sales-profitability-dashboard)
 
 ### Financial Market Analysis
 Power BI · Excel
