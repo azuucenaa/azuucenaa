@@ -1,31 +1,33 @@
 # Liz Azucena Lopez Zamora
 
-### Data & Business Analyst | Economics (UBA)
+### Economics Student | Data & Business Analyst
 
-Economics student at Universidad de Buenos Aires with training in Data & Business Analytics and practical experience in Power BI, SQL, Python and Excel.
+Economics student at Universidad de Buenos Aires with training in data analytics and practical experience in Power BI, SQL, Python and Excel.
 
 I build data analysis projects focused on business performance, financial analysis, profitability and decision-making.
+
+Open to opportunities in Data Analytics, Business Analytics, Business Intelligence and Financial Analysis.
 
 ## Featured Projects
 
 ### Financial Performance Dashboard
 Power BI · Power Query · DAX
 
-Interactive financial dashboard focused on revenue, profitability, margins, growth and category-level performance.
+Interactive financial dashboard analyzing revenue, profitability, margins, growth and category-level performance. Includes 8 financial KPIs and DAX measures for monthly and year-to-date analysis.
 
 [View project →](https://github.com/azuucenaa/financial-performance-dashboard)
 
 ### Sales & Commercial Profitability Dashboard
 Excel · Power Query
 
-Interactive sales and profitability dashboard analyzing commercial performance by category, region, product and time period.
+Executive dashboard analyzing sales and profitability by category, region, product and time period. Power Query was used to automate data preparation and streamline recurring reporting.
 
 [View project →](https://github.com/azuucenaa/sales-profitability-dashboard)
 
 ### Financial Market Analysis
 Power BI · Excel
 
-Comparative analysis of the Nasdaq-100 and S&P 500 between 2016 and 2025, focused on performance, volatility, drawdown and correlation.
+Comparative analysis of the Nasdaq-100 and S&P 500 from 2016 to 2025, evaluating cumulative return, volatility, maximum drawdown and correlation.
 
 [View project →](https://github.com/azuucenaa/google-data-analytics-capstone)
 
@@ -33,7 +35,7 @@ Comparative analysis of the Nasdaq-100 and S&P 500 between 2016 and 2025, focuse
 
 **Data & BI:** Power BI · Power Query · DAX · Excel · Tableau  
 **Data & Programming:** SQL · Python · Pandas  
-**Business Analytics:** Financial & Commercial Analysis · Profitability Analysis · KPI Analysis
+**Analytics:** Financial Analysis · Commercial Analysis · Profitability Analysis · KPI Analysis
 
 ## Experience
 
@@ -62,6 +64,11 @@ Licenciatura en Economía · 2025–Presente
 **Introduction to Corporate Finance** — Wharton | Coursera · July 2026
 
 **Financial Markets** — Yale | Coursera · July 2026
+
+## Languages
+
+**Spanish:** Native  
+**English:** B2
 
 ## Contact
 
