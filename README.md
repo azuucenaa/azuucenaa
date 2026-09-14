@@ -13,7 +13,7 @@ Power BI · Power Query · DAX
 
 Interactive financial dashboard focused on revenue, profitability, margins, growth and category-level performance.
 
-[View project →](https://github.com/azuucenaa/panel-de-rendimiento-financiero)
+[View project →](https://github.com/azuucenaa/financial-performance-dashboard)
 
 ### Sales & Commercial Profitability Dashboard
 Excel · Power Query
@@ -27,7 +27,7 @@ Power BI · Excel
 
 Comparative analysis of the Nasdaq-100 and S&P 500 between 2016 and 2025, focused on performance, volatility, drawdown and correlation.
 
-[View project →](https://github.com/azuucenaa/proyecto-final-de-analisis-de-datos-de-google)
+[View project →](https://github.com/azuucenaa/google-data-analytics-capstone)
 
 ## Skills
 
